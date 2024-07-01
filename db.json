@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": "Ömer",
+      "title": "React MVC Pattern(Mimari)",
+      "text": "MVC Mimari ile bileşenleri nasıl yönetirim?",
+      "date": "2024-05-05"
+    },
+    {
+      "id": "2",
+      "user": "Hasan",
+      "title": "React MVVM Paterni",
+      "text": "Bu nedir?",
+      "date": "2024-05-05"
+    },
+    {
+      "id": "81b48237-12f0-4f94-98aa-e63f3e9077ec",
+      "date": "2024-05-09T17:38:40.615Z",
+      "user": "Meryem",
+      "title": "React Toolkit",
+      "text": "Start up projesi."
+    },
+    {
+      "id": "64919a14-a352-40a9-9af1-e1b4eb03845e",
+      "date": "2024-07-01T11:45:32.972Z",
+      "user": "Ali",
+      "title": "MVC",
+      "text": "Başla"
+    }
+  ]
+}
